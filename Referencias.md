@@ -18,3 +18,7 @@ readableStream.on('readable', function() {
    while ((chunk=readableStream.read()) != null) {
      data += chunk;
 ```     
+
+## Referencias
+- NodeRed
+- NodeJS
